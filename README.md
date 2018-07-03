@@ -5,3 +5,5 @@ To download CSV file, visit this link (turnstile_data_master_with_weather.csv
 https://drive.google.com/file/d/0B6d5LJ-6Fev6Nk9nbExGbFhuX2M/view
 
 I am only adding the projects and all the file that were downloaded/fetched by code can be fetched by running the code in Jupyter.
+
+File downloaded as HTML also is uploaded and along with ipynb file. Mapper and Reducer output file is also added.
